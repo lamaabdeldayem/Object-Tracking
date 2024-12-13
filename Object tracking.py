@@ -7,7 +7,7 @@ model = YOLO('yolov8n.pt')
 
 # load video
 video_path = './test.mp4'
-cap = cv2.VideoCapture(video_path)
+cap = cv2.VideoCapture(video_path) #enter a video path or just 0 for webcam or another digit if you have different cameras
 
 ret = True
 # read frames
