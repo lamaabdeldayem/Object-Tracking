@@ -1,6 +1,3 @@
-
----
-
 # YOLOv8 Object Detection and Tracking 🚀
 
 This project demonstrates the use of the **YOLOv8 model** for **real-time object detection and tracking** in videos. It utilizes the **Ultralytics YOLOv8** model and **OpenCV** for video processing.
